@@ -304,7 +304,9 @@ h1 {
   color: var(--accent);
   background: var(--hologram-gradient);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
   background-size: 200% auto;
   animation: gradient-move 4s linear infinite;
   filter: drop-shadow(0 0 5px var(--accent-glow));

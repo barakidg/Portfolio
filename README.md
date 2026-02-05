@@ -49,7 +49,7 @@ npm install
 npm run dev
 ```
 
-The application will be available at `http://localhost:5173`
+The application will be available at `https://portfolio-wzhj.onrender.com`
 
 
 ## 🎨 Customization Guide
