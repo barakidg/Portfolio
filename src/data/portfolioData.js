@@ -18,7 +18,7 @@ export const portfolioData = {
         github: "https://github.com/barakidg"
     },
     skills: {
-        known: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "PostgreSQL", "MySQL", "Git", "GitHub", "RestFul API", 'MERN Stack', "Docker", "Testing"],
+        known: ["React", "Express", "JavaScript", "Node.js", "MongoDB", "PostgreSQL", "MySQL", "Git", "GitHub", "RestFul API", 'MERN Stack', "Docker", "Testing"],
         learning: ["TypeScript", "Python", "Django", "Deployment"]
     },
     projects: [
@@ -29,16 +29,10 @@ export const portfolioData = {
             desc: "A full-stack website that helps users find pharmacies and check medicine availablity."
         },
         {
-            title: "Weather Dashboard",
+            title: "Ecommerce Website",
             status: "completed",
-            link: "https://github.com/barakidg/Weather-Dashboard.git",
-            desc: "A webpage that helps users find weather information of their city."
-        },
-        {
-            title: "Temprature convertor",
-            status: "completed",
-            link: "https://github.com/barakidg/Temperature-convertor.git",
-            desc: "A webpage that helps users convert temprature from one unit to another."
+            link: "https://github.com/barakidg/Ecommerce.git",
+            desc: "A modern full-stack website built using React, Express, prisma and postgresql."
         },
         {
             title: "Content Management System",
